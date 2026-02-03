@@ -1,7 +1,7 @@
 # Fitbit-Tracking
 
 
-Step #1: Register your Application with Fitbit (dev.fitbit.com)
+Step #1(already done): Register your Application with Fitbit (dev.fitbit.com)
 
 Application Website URL: https://sparc-xp.org
 Default Access Type: Read Only 
